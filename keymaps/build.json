@@ -1,0 +1,11 @@
+{
+  ".platform-darwin atom-workspace, .platform-darwin atom-text-editor": {
+    "cmd-alt-r": "run"
+  },
+  ".platform-linux atom-workspace, .platform-linux atom-text-editor, .platform-win32 atom-workspace, .platform-win32 atom-text-editor": {
+    "ctrl-alt-r": "run"
+  },
+  "atom-workspace, atom-text-editor": {
+    "f5": "run"
+  }
+}
